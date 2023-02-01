@@ -2,7 +2,7 @@
 VERSION = 6
 PATCHLEVEL = 1
 SUBLEVEL = 8
-EXTRAVERSION = -zen
+EXTRAVERSION = -zen-jupiter
 NAME = Finding Humor In Nothing
 
 # *DOCUMENTATION*
